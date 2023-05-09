@@ -8,10 +8,10 @@ In many courses, students need to find their partners without much information a
 
 | Name | JHU Email | GitHub Username |
 | ---- | --------- | --------------- |
+|Chenxuan Xiang      |cxiang4@jhu.edu           |1459DF                 |
 |Ming Zhang      |mzhan148@jhu.edu           |the-scientist-alter-ego                 |
 |Yi Zhou      |yzhou188@jhu.edu           |joannezhouyi                 |
 |Shuran Zhang      |srzhang@jhu.edu           |SrZhang4160                 |
-|Chenxuan Xiang      |cxiang4@jhu.edu           |1459DF                 |
 |      |           |                 |
 
 **Advisors** 
