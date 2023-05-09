@@ -12,7 +12,6 @@ In many courses, students need to find their partners without much information a
 |Yi Zhou      |yzhou188@jhu.edu           |joannezhouyi                 |
 |Shuran Zhang      |srzhang@jhu.edu           |SrZhang4160                 |
 |Chenxuan Xiang      |cxiang4@jhu.edu           |1459DF                 |
-|Yuting Zhang      |yzhan568@jhu.edu           |yzhan568                 |
 |      |           |                 |
 
 **Advisors** 
